@@ -87,9 +87,10 @@ Gaming को income या financial solution के रूप में नह
 
 ## Related Resources
 
-Spin Crush से संबंधित अन्य जानकारी के लिए:
-
-* [Spin Crush Information](https://letspincrush.com/)
+* [Spin Crush Features](https://hi.letspincrush.com/spin-crush-features/)
+* [Spin Crush System Requirements](https://hi.letspincrush.com/spin-crush-system-requirements/)
+* [Spin Crush Promo Code](https://hi.letspincrush.com/spin-crush-promo-code/)
+* [Spin Crush Update History](https://hi.letspincrush.com/spin-crush-update-history/)
 * [Responsible Gaming](https://hi.letspincrush.com/responsible-gaming.html)
 * [Terms and Conditions](https://hi.letspincrush.com/terms-and-conditions.html)
 * [Privacy Policy](https://hi.letspincrush.com/privacy-policy.html)
@@ -101,4 +102,5 @@ Spin Crush से संबंधित अन्य जानकारी क�
 
 **Website:** https://hi.letspincrush.com
 
-**Content Type:** Hindi Spin Crush Information Resource
+**Content Type:** Hindi Spin Crush Guide
+
