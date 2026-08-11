@@ -2,7 +2,7 @@
 
 SPINCRUSH से जुड़ी हिंदी जानकारी, गेम अपडेट, गाइड और उपयोगी संसाधनों के लिए इस repository में आपका स्वागत है।
 
-यह GitHub repository **in.letspincrush.com** से संबंधित supporting files, documentation और website resources को व्यवस्थित करने के लिए बनाई गई है।
+यह GitHub repository **hi.letspincrush.com** से संबंधित supporting files, documentation और website resources को व्यवस्थित करने के लिए बनाई गई है।
 
 इस प्रोजेक्ट का उद्देश्य Spin Crush से जुड़े विषयों पर हिंदी भाषा में स्पष्ट, उपयोगी और आसानी से समझ आने वाली जानकारी उपलब्ध कराना है।
 
@@ -10,9 +10,9 @@ SPINCRUSH से जुड़ी हिंदी जानकारी, गे�
 
 ## वेबसाइट
 
-🌐 https://in.letspincrush.com
+🌐 https://hi.letspincrush.com
 
-**in.letspincrush.com** एक स्वतंत्र हिंदी information resource है, जो Spin Crush से संबंधित विभिन्न विषयों को कवर करता है, जैसे:
+**hi.letspincrush.com** एक स्वतंत्र हिंदी information resource है, जो Spin Crush से संबंधित विभिन्न विषयों को कवर करता है, जैसे:
 
 * Spin Crush की जानकारी
 * गेम और प्लेटफ़ॉर्म से संबंधित जानकारी
@@ -29,19 +29,19 @@ SPINCRUSH से जुड़ी हिंदी जानकारी, गे�
 वेबसाइट पर उपलब्ध उपयोगी जानकारी:
 
 * **About**
-  https://in.letspincrush.com/about.html
+  https://hi.letspincrush.com/about.html
 
 * **Contact**
-  https://in.letspincrush.com/contact.html
+  https://hi.letspincrush.com/contact.html
 
 * **Privacy Policy**
-  https://in.letspincrush.com/privacy-policy.html
+  https://hi.letspincrush.com/privacy-policy.html
 
 * **Terms and Conditions**
-  https://in.letspincrush.com/terms-and-conditions.html
+  https://hi.letspincrush.com/terms-and-conditions.html
 
 * **Responsible Gaming**
-  https://in.letspincrush.com/responsible-gaming.html
+  https://hi.letspincrush.com/responsible-gaming.html
 
 ---
 
@@ -73,7 +73,7 @@ Repository का उद्देश्य वेबसाइट के developm
 
 ## Content Approach
 
-in.letspincrush.com पर content तैयार करते समय मुख्य रूप से इन बातों पर ध्यान दिया जाता है:
+hi.letspincrush.com पर content तैयार करते समय मुख्य रूप से इन बातों पर ध्यान दिया जाता है:
 
 * उपयोगी और स्पष्ट जानकारी प्रदान करना
 * हिंदी भाषा में आसान और समझने योग्य content तैयार करना
@@ -86,7 +86,7 @@ in.letspincrush.com पर content तैयार करते समय मु
 
 ## Disclaimer
 
-**in.letspincrush.com एक स्वतंत्र information resource है।**
+**hi.letspincrush.com एक स्वतंत्र information resource है।**
 
 यह repository या वेबसाइट Spin Crush के किसी official operator, developer या owner का प्रतिनिधित्व करने का दावा नहीं करती।
 
@@ -115,6 +115,6 @@ in.letspincrush.com पर content तैयार करते समय मु
 
 🌐 https://letspincrush.com
 
-**in.letspincrush.com** हिंदी भाषा में Spin Crush से संबंधित जानकारी प्रदान करने के लिए विकसित किया गया है।
+**hi.letspincrush.com** हिंदी भाषा में Spin Crush से संबंधित जानकारी प्रदान करने के लिए विकसित किया गया है।
 
 धन्यवाद! SPINCRUSH हिंदी information resource पर आने के लिए आपका स्वागत है।
