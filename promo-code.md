@@ -118,6 +118,7 @@ Promo codes, bonuses, promotions और promotional offers की availability �
 * [Spin Crush Features](https://hi.letspincrush.com/spin-crush-features/)
 * [Spin Crush Guide](https://hi.letspincrush.com/spin-crush-guide/)
 * [Spin Crush System Requirements](https://hi.letspincrush.com/spin-crush-system-requirements/)
+* [Spin Crush Update History](https://hi.letspincrush.com/spin-crush-update-history/)
 * [Responsible Gaming](https://hi.letspincrush.com/responsible-gaming.html)
 * [Terms and Conditions](https://hi.letspincrush.com/terms-and-conditions.html)
 
