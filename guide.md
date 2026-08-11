@@ -122,6 +122,9 @@ Spin Crush से संबंधित information, games, payment methods औ�
 ## Related Resources
 
 * [Spin Crush Features](https://hi.letspincrush.com/spin-crush-features/)
+* [Spin Crush System Requirements](https://hi.letspincrush.com/spin-crush-system-requirements/)
+* [Spin Crush Promo Code](https://hi.letspincrush.com/spin-crush-promo-code/)
+* [Spin Crush Update History](https://hi.letspincrush.com/spin-crush-update-history/)
 * [Responsible Gaming](https://hi.letspincrush.com/responsible-gaming.html)
 * [Terms and Conditions](https://hi.letspincrush.com/terms-and-conditions.html)
 * [Privacy Policy](https://hi.letspincrush.com/privacy-policy.html)
