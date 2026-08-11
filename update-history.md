@@ -120,7 +120,7 @@ Spin Crush से संबंधित actual application versions, features, s
 * [Spin Crush Features](https://hi.letspincrush.com/spin-crush-features/)
 * [Spin Crush Guide](https://hi.letspincrush.com/spin-crush-guide/)
 * [Spin Crush System Requirements](https://hi.letspincrush.com/spin-crush-system-requirements/)
-* [Promo Code](https://hi.letspincrush.com/promo-code/)
+* [Spin Crush Promo Code](https://hi.letspincrush.com/spin-crush-promo-code/)
 * [Responsible Gaming](https://hi.letspincrush.com/responsible-gaming.html)
 
 ---
