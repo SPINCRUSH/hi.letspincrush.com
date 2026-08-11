@@ -164,11 +164,3 @@ Actual requirements, promotions और promo code availability application, devi
 **Website:** https://hi.letspincrush.com
 
 **Content Type:** Hindi Spin Crush System Requirements Guide
-
----
-
-**Publisher:** Kusnadi
-
-**Website:** https://hi.letspincrush.com
-
-**Content Type:** Hindi Spin Crush System Requirements Guide
