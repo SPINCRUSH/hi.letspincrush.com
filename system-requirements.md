@@ -86,6 +86,22 @@ Application को हमेशा trusted source से ही update या do
 
 ---
 
+## Spin Crush Promo Code
+
+यदि किसी Spin Crush से संबंधित service या promotion में promo code उपलब्ध हो, तो उसे उपयोग करने से पहले उसकी current validity और applicable terms की जांच करें।
+
+Promo code से संबंधित जानकारी समय के साथ बदल सकती है। इसलिए users को किसी भी code को apply करने से पहले यह verify करना चाहिए कि:
+
+* Promo code अभी valid है या नहीं
+* Code किन users या services के लिए उपलब्ध है
+* कोई minimum requirement लागू है या नहीं
+* Promo की expiry date क्या है
+* Terms और conditions क्या हैं
+
+किसी unknown source से प्राप्त promo code का उपयोग करते समय सावधानी बरतें और personal information, OTP या financial details किसी अनtrusted source के साथ share न करें।
+
+---
+
 ## Compatibility Check कैसे करें?
 
 किसी application या service का उपयोग करने से पहले:
@@ -96,6 +112,7 @@ Application को हमेशा trusted source से ही update या do
 4. Application की current system requirements पढ़ें।
 5. Download source की reliability verify करें।
 6. Installation के बाद application permissions को ध्यान से review करें।
+7. यदि promo code या promotion उपलब्ध हो, तो उसकी current terms और validity verify करें।
 
 ---
 
@@ -115,6 +132,8 @@ Technology और application versions लगातार बदलते रह
 
 किसी application या service को install करने से पहले हमेशा latest available requirements को verify करें।
 
+इसी तरह, promo codes और promotional offers भी समय के साथ बदल सकते हैं। किसी भी offer का उपयोग करने से पहले उसकी latest conditions और validity की पुष्टि करें।
+
 ---
 
 ## Disclaimer
@@ -123,9 +142,9 @@ Technology और application versions लगातार बदलते रह
 
 यह website Spin Crush के किसी official operator, developer या owner का प्रतिनिधित्व करने का दावा नहीं करती।
 
-इस page पर दी गई system और compatibility information सामान्य informational purposes के लिए है।
+इस page पर दी गई system, compatibility और promotional information सामान्य informational purposes के लिए है।
 
-Actual requirements application, device, operating system, location और संबंधित service के अनुसार अलग हो सकती हैं।
+Actual requirements, promotions और promo code availability application, device, operating system, location और संबंधित service के अनुसार अलग हो सकती हैं।
 
 ---
 
@@ -133,9 +152,18 @@ Actual requirements application, device, operating system, location और स�
 
 * [Spin Crush Features](https://hi.letspincrush.com/spin-crush-features/)
 * [Spin Crush Guide](https://hi.letspincrush.com/spin-crush-guide/)
+* [Spin Crush Promo Code](https://hi.letspincrush.com/spin-crush-promo-code/)
 * [Responsible Gaming](https://hi.letspincrush.com/responsible-gaming.html)
 * [Terms and Conditions](https://hi.letspincrush.com/terms-and-conditions.html)
 * [Privacy Policy](https://hi.letspincrush.com/privacy-policy.html)
+
+---
+
+**Publisher:** Kusnadi
+
+**Website:** https://hi.letspincrush.com
+
+**Content Type:** Hindi Spin Crush System Requirements Guide
 
 ---
 
